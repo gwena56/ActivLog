@@ -121,7 +121,7 @@ function doEvent(){
     };
     // Send the request
     request.open(method, url+"/"+uid+".ics");
-    request.setRequestHeader("Authorization","Basic MTM4NDg6Z3dlbmFuYXhpemhlNA==");
+    request.setRequestHeader("Authorization","Basic (encode user:password with base64)");
     //request.setRequestHeader("text/calendar", "text/plain;charset=UTF-8");
     request.send(data.join("\n"));
     return true;
