@@ -24,3 +24,5 @@ ajax({ url: 'http://api.theysaidso.com/qod.json', type: 'json' },
 );
 
 ### ActivLog
+
+modify file [app.js](https://github.com/gwena56/ActivLog/tree/master/src/js)
