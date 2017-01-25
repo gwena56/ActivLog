@@ -22,3 +22,5 @@ ajax({ url: 'http://api.theysaidso.com/qod.json', type: 'json' },
     console.log('Quote of the day is: ' + data.contents.quotes[0].quote);
   }
 );
+
+### ActivLog
