@@ -1,5 +1,5 @@
-Pebble.js
-=========
+ActivLog Pebble.js App
+======================
 
 [![Build Status](https://travis-ci.org/pebble/pebblejs.svg?branch=master)](https://travis-ci.org/pebble/pebblejs)
 
