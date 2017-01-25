@@ -13,4 +13,9 @@ Pebble.js applications run on your phone. They have access to all the resources 
 
 ### ActivLog
 
-modify file [app.js](https://github.com/gwena56/ActivLog/tree/master/src/js)
+modify in file [app.js](https://github.com/gwena56/ActivLog/tree/master/src/js) line 124 : (encode user:password with base64) whith your own owncloud credentials encoded in Base64.
+
+### To do list ...
+` - compagnon App to change MenuItems
+- work with all caldav
+`
